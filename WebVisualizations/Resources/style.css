@@ -1,5 +1,5 @@
 body {
-    background-color: lightgrey (242,242,242);
+    background-color: lightgrey;
 }
 h1 
 {
@@ -7,6 +7,12 @@ h1
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-weight: bold;
     font-size: 24px;
+    padding-left: 150px;
+   
+    
+}
+p3{
+    padding-left: 150px;
 }
 h2 
 {
@@ -15,19 +21,30 @@ h2
     font-weight: bold;
     font-size: 20px;
 }
+p{
+    
+    text-align: left;
+    margin-left: 400px;
+ 
+}
+
 
 .summary-image{
-    width: 250px;
+    width: 40%;
+   
+    padding-left: 150px;
     float: left;
 }
 
 .small-image {
     width:150px;
+    height: 60%
     
 }
 .navbar-links{ 
     float: right;
-    background-color: lime;
+    
+  
 }
 
 .navbar-brand {
@@ -43,6 +60,9 @@ h2
     
     text-align: justify;
 }
+.vizmore {
+    margin-top: 10px;
+}
 #content-container {
     margin-top: 32px;
     visibility: visible;
@@ -52,8 +72,41 @@ h2
 
 }
 .image1{
-    width: 800px;
+        float: left;
+        width: 40%;
+        padding-left: 100px;
+       
+      }
+.image3{
  
+    padding-left: 100px;
+    width: 40%;
+
+}
+.image2{
+
+        width: 40%;
+}
+.image4{
+ 
+        width: 40%;
+}
+p2{
+    padding-left: 180px;
+    padding-right:70px;
+    text-align: left;
+  
+}
+h3 
+{
+    color: teal;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-size: 30px;
+    padding-left: 180px;
+    
 }
 
+.visualcolor{
+    background-color: white
 }
