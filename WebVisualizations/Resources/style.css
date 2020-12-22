@@ -7,7 +7,7 @@ h1
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-weight: bold;
     font-size: 24px;
-    padding-left: 150px;
+    padding-left: 30px;
    
     
 }
@@ -19,7 +19,7 @@ h2
     color: teal;
     font-family: Georgia, 'Times New Roman', Times, serif
     font-weight: bold;
-    font-size: 20px;
+    font-size: 24px;
 }
 p{
     
@@ -30,7 +30,7 @@ p{
 
 
 .summary-image{
-    width: 40%;
+    width: 35%;
    
     padding-left: 150px;
     float: left;
@@ -39,6 +39,7 @@ p{
 .small-image {
     width:150px;
     height: 60%
+    background-color: lightgrey;
     
 }
 .navbar-links{ 
@@ -108,5 +109,11 @@ h3
 }
 
 .visualcolor{
-    background-color: white
+    
+    float: right;
+}
+p6{
+    padding-left: 30px;
+    padding-right:70px;
+    text-align: left;  
 }
